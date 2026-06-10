@@ -63,4 +63,4 @@ Perjanjian ini diatur oleh hukum Republik Indonesia. Setiap sengketa akan diajuk
 Kontak Pemilik:
 Lahir Wisada Santoso
 Status lokasi: Tidak tetap / Nomaden
-Email: lahirwisada@gmail.com
+Email: gadueduik@gmail.com

@@ -63,4 +63,4 @@ This agreement is governed by the laws of the Republic of Indonesia. Any dispute
 Owner Contact:
 Lahir Wisada Santoso
 Location status: Unfixed / Nomadic
-Email: lahirwisada@gmail.com
+Email: gadueduik@gmail.com
