@@ -149,7 +149,7 @@ It calculates the exact amount of capital you should allocate to a trade. You en
 *   **Maximum Quantity**: Calculates the maximum asset amount you can trade given your margin and leverage.
 
 ### Q6.4: Can I quickly copy calculator results to paste elsewhere?
-Yes. Each key output (Target TP, Leverage, Max Quantity) has a dedicated copy button. It copies the clean numerical value (without units like "x" or "USD") so you can paste it directly into your exchange's trading terminal.
+Yes. Each key output (Target TP and Leverage) has a dedicated copy button. It copies the clean numerical value (without units like "x" or "USD") so you can paste it directly into your exchange's trading terminal.
 
 ---
 

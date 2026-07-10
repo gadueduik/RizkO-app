@@ -150,7 +150,7 @@ Kalkulator ini membantu Anda membatasi kerugian modal. Anda cukup memasukkan Tot
 *   **Maximum Quantity**: Menghitung batas kuantitas koin maksimal yang dapat ditransaksikan berdasarkan margin dan leverage Anda saat ini.
 
 ### Q6.4: Apakah saya bisa menyalin hasil kalkulator dengan cepat untuk ditempel di tempat lain?
-Ya. Setiap output penting (seperti Target TP, Leverage, dan Max Quantity) dilengkapi dengan tombol salin instan (*Copy to Clipboard*). Tombol ini akan menyalin angka bersih (tanpa imbuhan huruf "x" atau "USD") sehingga Anda dapat langsung menempelkannya (paste) ke kolom terminal trading pada bursa (exchange) pilihan Anda.
+Ya. Setiap output penting (seperti Target TP dan Leverage) dilengkapi dengan tombol salin instan (*Copy to Clipboard*). Tombol ini akan menyalin angka bersih (tanpa imbuhan huruf "x" atau "USD") sehingga Anda dapat langsung menempelkannya (paste) ke kolom terminal trading pada bursa (exchange) pilihan Anda.
 
 ---
 
