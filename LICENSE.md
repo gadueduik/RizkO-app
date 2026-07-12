@@ -58,7 +58,17 @@ This agreement is governed by the laws of the Republic of Indonesia. Any dispute
 
 14. Miscellaneous
 - If any provision of this EULA is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+- The Owner reserves the right to modify, amend, or update this EULA at any time, unilaterally and without prior notice. Your continued use of the Software following any such changes constitutes your acceptance of the new EULA.
 - Modifications to this EULA are only valid if made in writing and signed by the Owner.
+
+15. Google Play Store Compliance
+If you download the Software (including the mobile application version) from the Google Play Store (operated by Google LLC or its affiliates, hereinafter "Google"):
+- **Acknowledgment**: You acknowledge that this EULA is concluded solely between you and the Owner, and not with Google. The Owner, not Google, is solely responsible for the Software and its content.
+- **Maintenance and Support**: The Owner is solely responsible for providing any maintenance and support services for the Software. You acknowledge that Google has no obligation whatsoever to furnish any maintenance and support services with respect to the Software.
+- **Warranty**: In the event of any failure of the Software to conform to any applicable warranty, Google has no warranty obligation whatsoever with respect to the Software.
+- **Product Claims & Intellectual Property**: You acknowledge that the Owner, not Google, is responsible for addressing any claims relating to the Software, including but not limited to product liability claims, legal compliance claims, or third-party intellectual property infringement claims.
+- **Third-Party Beneficiary**: You acknowledge and agree that Google is a third-party beneficiary of this EULA, and that, upon your acceptance of the terms and conditions of this EULA, Google will have the right to enforce this EULA against you as a third-party beneficiary thereof.
+- **Legal Compliance**: You represent and warrant that (i) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a "terrorist supporting" country; and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties.
 
 Owner Contact:
 Lahir Wisada Santoso

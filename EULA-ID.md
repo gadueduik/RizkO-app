@@ -58,7 +58,17 @@ Perjanjian ini diatur oleh hukum Republik Indonesia. Setiap sengketa akan diajuk
 
 14. Ketentuan Lain
 - Jika ada ketentuan dalam EULA ini yang dianggap tidak sah atau tidak dapat dilaksanakan, ketentuan lain tetap berlaku.
+- Pemilik berhak untuk mengubah, menambah, atau memperbarui EULA ini kapan saja secara sepihak dan tanpa pemberitahuan terlebih dahulu. Penggunaan Perangkat Lunak secara berkelanjutan oleh Anda setelah adanya perubahan tersebut dianggap sebagai persetujuan Anda terhadap EULA yang baru.
 - Perubahan pada EULA ini hanya sah jika dibuat secara tertulis dan ditandatangani oleh Pemilik.
+
+15. Kepatuhan Google Play Store
+Jika Anda mengunduh Perangkat Lunak (termasuk versi aplikasi seluler) dari Google Play Store (dioperasikan oleh Google LLC atau afiliasinya, selanjutnya disebut "Google"):
+- **Pengakuan**: Anda mengakui bahwa EULA ini dibuat semata-mata antara Anda dan Pemilik, bukan dengan Google. Pemilik, bukan Google, bertanggung jawab penuh atas Perangkat Lunak beserta kontennya.
+- **Pemeliharaan dan Dukungan**: Pemilik bertanggung jawab penuh untuk menyediakan layanan pemeliharaan dan dukungan untuk Perangkat Lunak. Anda mengakui bahwa Google tidak memiliki kewajiban apa pun untuk menyediakan layanan pemeliharaan dan dukungan terkait Perangkat Lunak.
+- **Jaminan**: Jika ada kegagalan Perangkat Lunak untuk mematuhi jaminan yang berlaku, Google tidak memiliki kewajiban jaminan apa pun terkait Perangkat Lunak.
+- **Klaim Produk & Kekayaan Intelektual**: Anda mengakui bahwa Pemilik, bukan Google, bertanggung jawab untuk menangani klaim apa pun terkait Perangkat Lunak, termasuk namun tidak terbatas pada klaim tanggung jawab produk, kepatuhan hukum, atau klaim pelanggaran kekayaan intelektual pihak ketiga.
+- **Penerima Manfaat Pihak Ketiga**: Anda mengakui dan menyetujui bahwa Google adalah penerima manfaat pihak ketiga dari EULA ini, dan setelah Anda menerima syarat dan ketentuan EULA ini, Google berhak menegakkan EULA ini terhadap Anda sebagai penerima manfaat pihak ketiga.
+- **Kepatuhan Hukum**: Anda menyatakan dan menjamin bahwa (i) Anda tidak berada di negara yang tunduk pada embargo Pemerintah AS, atau yang telah ditetapkan oleh Pemerintah AS sebagai negara "pendukung teroris"; dan (ii) Anda tidak tercantum dalam daftar pihak yang dilarang atau dibatasi oleh Pemerintah AS.
 
 Kontak Pemilik:
 Lahir Wisada Santoso
