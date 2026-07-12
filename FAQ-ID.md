@@ -7,6 +7,7 @@ FAQ ini menyediakan jawaban atas pertanyaan umum seputar penggunaan aplikasi Riz
    - [Q1.1: Apa itu RizkO?](#q11-apa-itu-rizko)
    - [Q1.2: Platform apa saja yang didukung oleh RizkO?](#q12-platform-apa-saja-yang-didukung-oleh-rizko)
    - [Q1.3: Apakah RizkO gratis untuk digunakan?](#q13-apakah-rizko-gratis-untuk-digunakan)
+   - [Q1.4: Apakah aplikasi ini cocok untuk semua exchange dan semua jenis/kategori perdagangan?](#q14-apakah-aplikasi-ini-cocok-untuk-semua-exchange-dan-semua-jeniskategori-perdagangan)
 2. [Data, Privasi & Penyimpanan](#2-data-privasi--penyimpanan)
    - [Q2.1: Di mana data jurnal trading saya disimpan? Apakah diunggah ke server?](#q21-di-mana-data-jurnal-trading-saya-disimpan-apakah-diunggah-ke-server)
    - [Q2.2: Di mana saya bisa menemukan file database di perangkat saya?](#q22-di-mana-saya-bisa-menemukan-file-database-di-perangkat-saya)
@@ -49,6 +50,11 @@ RizkO mendukung ekosistem Desktop maupun Mobile:
 
 ### Q1.3: Apakah RizkO gratis untuk digunakan?
 Ya, RizkO sepenuhnya gratis untuk digunakan. Tidak ada biaya berlangganan, batasan fitur (paywall), atau keharusan membuat akun. Anda dapat memberikan dukungan sukarela kepada pengembang melalui menu donasi jika merasa aplikasi ini bermanfaat.
+
+### Q1.4: Apakah aplikasi ini cocok untuk semua exchange dan semua jenis/kategori perdagangan?
+Secara umum, RizkO **tidak sepenuhnya cocok atau dioptimalkan untuk semua exchange dan semua kategori perdagangan** secara bawaan:
+*   **Exchange (Bursa)**: Sebagai asisten jurnal *offline-first*, RizkO bersifat independen untuk pengisian manual atau impor Excel. Anda dapat membuat profil bursa/exchange kustom secara bebas serta menentukan komisi default-nya. Namun, aplikasi ini **tidak mendukung integrasi API langsung atau sinkronisasi otomatis** dengan bursa mana pun.
+*   **Kategori Perdagangan**: RizkO **dioptimalkan secara khusus untuk perdagangan mata uang kripto (Cryptocurrency)**, khususnya kontrak berjangka/perpetual dengan leverage. Alat bantu di dalam aplikasi (seperti kalkulator manajemen risiko/leverage, pembaca berita kripto, dan grafik TradingView yang default ke kontrak perpetual Binance) dirancang untuk aset kripto. Meskipun Anda dapat mencatat aset lain seperti saham, forex, atau opsi secara manual, aplikasi ini tidak mendukung fitur bawaan khusus seperti *options chain*, penyesuaian *stock split*, dividen, atau integrasi dengan broker saham tradisional.
 
 ---
 

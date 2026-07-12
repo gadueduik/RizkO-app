@@ -7,6 +7,7 @@ This FAQ provides answers to common questions about using RizkO, for both Deskto
    - [Q1.1: What is RizkO?](#q11-what-is-rizko)
    - [Q1.2: What platforms does RizkO support?](#q12-what-platforms-does-rizko-support)
    - [Q1.3: Is RizkO free to use?](#q13-is-rizko-free-to-use)
+   - [Q1.4: Is this app suitable for all exchanges and all types/categories of trading?](#q14-is-this-app-suitable-for-all-exchanges-and-all-typescategories-of-trading)
 2. [Data, Privacy & Storage](#2-data-privacy--storage)
    - [Q2.1: Where is my trading journal data stored? Is it uploaded to a server?](#q21-where-is-my-trading-journal-data-stored-is-it-uploaded-to-a-server)
    - [Q2.2: Where can I find the database files on my device?](#q22-where-can-i-find-the-database-files-on-my-device)
@@ -49,6 +50,11 @@ RizkO supports both Desktop and Mobile ecosystems:
 
 ### Q1.3: Is RizkO free to use?
 Yes, RizkO is free to use. There are no subscriptions, paywalls, or mandatory accounts. You can optionally support the project via donations if you find it valuable.
+
+### Q1.4: Is this app suitable for all exchanges and all types/categories of trading?
+No, RizkO is not fully suitable or optimized for all exchanges and all types of trading out-of-the-box:
+*   **Exchanges**: As an offline-first journal and calculator tool, RizkO is exchange-agnostic for manual entry or Excel imports. You can add custom exchanges and set default commissions/taxes under settings. However, it **does not support direct API integration or auto-sync** with any exchanges.
+*   **Trading Categories**: It is **specifically optimized for Cryptocurrency trading** (especially leveraged spot/futures/perpetual contracts). The built-in tools, such as the position-sizing/leverage calculators, the Crypto News Reader, and the TradingView chart widget (which defaults to Binance Perpetual contracts), are tailored to crypto. While you can log traditional assets like stocks, forex, or options manually, the app does not natively support features like option chain monitoring, stock split management, dividends, or stock broker integrations.
 
 ---
 
